@@ -1,3 +1,9 @@
+<img width="1144" height="667" alt="image" src="https://github.com/user-attachments/assets/b167a328-52f8-4c85-b556-1168f902b16e" />
+<img width="1143" height="664" alt="image" src="https://github.com/user-attachments/assets/6b54f4f2-acae-4db4-94c4-f95cf388d70d" />
+<img width="1144" height="661" alt="image" src="https://github.com/user-attachments/assets/98696368-6a91-4203-8a91-5747cce05934" />
+<img width="1146" height="657" alt="image" src="https://github.com/user-attachments/assets/dbf8f3d3-aab5-43e3-9623-6623a9e3769b" />
+
+
 📊 Financial Insights Dashboard (Power BI)
 📌 Overview
 
